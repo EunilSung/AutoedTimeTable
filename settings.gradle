@@ -1,0 +1,2 @@
+rootProject.name='AutoedTimeTable'
+include ':app'
